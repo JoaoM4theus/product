@@ -1,0 +1,11 @@
+C:\Users\João Matheus\source\repos\Product\Product\bin\Debug\netcoreapp3.0\Product.exe
+C:\Users\João Matheus\source\repos\Product\Product\bin\Debug\netcoreapp3.0\Product.deps.json
+C:\Users\João Matheus\source\repos\Product\Product\bin\Debug\netcoreapp3.0\Product.runtimeconfig.json
+C:\Users\João Matheus\source\repos\Product\Product\bin\Debug\netcoreapp3.0\Product.runtimeconfig.dev.json
+C:\Users\João Matheus\source\repos\Product\Product\bin\Debug\netcoreapp3.0\Product.dll
+C:\Users\João Matheus\source\repos\Product\Product\bin\Debug\netcoreapp3.0\Product.pdb
+C:\Users\João Matheus\source\repos\Product\Product\obj\Debug\netcoreapp3.0\Product.csprojAssemblyReference.cache
+C:\Users\João Matheus\source\repos\Product\Product\obj\Debug\netcoreapp3.0\Product.AssemblyInfoInputs.cache
+C:\Users\João Matheus\source\repos\Product\Product\obj\Debug\netcoreapp3.0\Product.AssemblyInfo.cs
+C:\Users\João Matheus\source\repos\Product\Product\obj\Debug\netcoreapp3.0\Product.dll
+C:\Users\João Matheus\source\repos\Product\Product\obj\Debug\netcoreapp3.0\Product.pdb
